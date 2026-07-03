@@ -18,7 +18,7 @@ A simple LED chase (Knight Rider–style) pattern using four LEDs — Red, Green
 
 ## How It Works
 LEDs light up in sequence: Red → Green → Blue → Yellow → Blue → Green → Red, each staying on for 200ms before turning off, creating a bouncing chase effect. Loops continuously.
-
+ 
 ## Simulation
 Built and tested on [Wokwi](https://wokwi.com).
 
